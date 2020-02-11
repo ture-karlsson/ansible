@@ -5,6 +5,8 @@ Windows Remote Management
 Unlike Linux/Unix hosts, which use SSH by default, Windows hosts are
 configured with WinRM. This topic covers how to configure and use WinRM with Ansible.
 
+Ansible Tower have the necessary dependencies for WinRM installed by default. To use WinRM from Tower, see: https://docs.ansible.com/ansible-tower/latest/html/administration/tipsandtricks.html#connecting-to-windows-with-winrm
+
 .. contents:: Topics
    :local:
 
